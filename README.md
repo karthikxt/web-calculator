@@ -24,3 +24,25 @@ To run this project locally, follow these steps:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/your-username/web-based-calculator.git
+   
+2.Navigate to the project directory:
+
+      cd web-based-calculator
+
+3.Open index.html in your web browser:
+
+      open index.html
+
+Usage
+Click the calculator buttons to perform operations.
+Use the clear button (C) to reset the calculator.
+The result will be displayed in real-time as you input the numbers and operations.
+Contributing
+Contributions are welcome! Please follow these steps to contribute:
+
+Fork the repository.
+Create a new branch (git checkout -b feature-branch).
+Make your changes.
+Commit your changes (git commit -m 'Add some feature').
+Push to the branch (git push origin feature-branch).
+Open a pull request.
