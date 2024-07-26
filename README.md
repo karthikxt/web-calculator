@@ -33,12 +33,12 @@ To run this project locally, follow these steps:
 
       open index.html
 
-##Usage
+## Usage
    Click the calculator buttons to perform operations.
    Use the clear button (C) to reset the calculator.
    The result will be displayed in real-time as you input the numbers and operations.
    
-##Contributing
+## Contributing
    Contributions are welcome! Please follow these steps to contribute:
 
    Fork the repository.
