@@ -9,10 +9,6 @@ This project is a simple web-based calculator built using HTML, CSS, and JavaScr
 - **User-Friendly Interface**: Simple and intuitive interface for ease of use.
 - **Real-Time Calculations**: Instant feedback as you type.
 
-## Demo
-
-Check out the live demo [here](https://your-demo-link.com).
-
 ## Screenshots
 
 ![Calculator Screenshot](screenshots/calculator.png)
@@ -22,22 +18,22 @@ Check out the live demo [here](https://your-demo-link.com).
 To run this project locally, follow these steps:
 
 1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-username/web-based-calculator.git
+
+         git clone https://github.com/your-username/web-based-calculator.git
    
 2.Navigate to the project directory:
 
-      cd web-based-calculator
+         cd web-based-calculator
 
 3.Open index.html in your web browser:
 
-      open index.html
+         open index.html
 
 ## Usage
 
--**Click the calculator buttons to perform operations.
--**Use the clear button (C) to reset the calculator.
--**The result will be displayed in real-time as you input the numbers and operations.
+   - Click the calculator buttons to perform operations.
+   - Use the clear button (C) to reset the calculator.
+   - The result will be displayed in real-time as you input the numbers and operations.
    
 ## Contributing
    Contributions are welcome! Please follow these steps to contribute:
