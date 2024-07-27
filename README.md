@@ -24,12 +24,13 @@ You can check out the live demo here :https://karthikxt.github.io/web-calculator
    
 ## Contributing
 Contributions are welcome! Please follow these steps to contribute:
-      - Fork the repository.
-      - Create a new branch (git checkout -b feature-branch).
-      - Make your changes.
-      - Commit your changes (git commit -m 'Add some feature').
-      - Push to the branch (git push origin feature-branch).
-      - Open a pull request.
+
+   - Fork the repository.
+   - Create a new branch (git checkout -b feature-branch).
+   - Make your changes.
+   - Commit your changes (git commit -m 'Add some feature').
+   - Push to the branch (git push origin feature-branch).
+   - Open a pull request.
 
 ## Contact
 For any questions or feedback, please contact me at [kx4904@gmail.com].
